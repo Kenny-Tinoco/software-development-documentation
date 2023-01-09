@@ -2,7 +2,8 @@
 
 ## Naming format
 
-[***authors initial*** + ***year***] --(***Authors***). --(***Title***). --(***Editorial***), --(***Year***)
+[***authors initial*** + ***year***] --(***Authors***). --(***Title***). --(***Editorial***), --(***Year***). --(***Edition***)
 
 ### Example
-	[Bern21] Jesús Bernal. Ingeniería web visión general. DevOps. MIW, 2021
+	[Ber21] Jesús Bernal. Ingeniería web visión general. DevOps. MIW, 2021
+	[McC04] Steve McConnell. Code complete. Microsoft Press, 2004. Second Edition
