@@ -1,0 +1,6 @@
+Manejo de string:
+    http://platea.pntic.mec.es/vgonzale/cyr_0204/cyr_01/control/lengua_C/cadenas.htm
+    
+Memoria Dinámica
+    https://www.geeksforgeeks.org/g-fact-66/
+    
