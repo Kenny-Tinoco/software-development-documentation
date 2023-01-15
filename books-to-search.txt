@@ -1,2 +1,10 @@
 Touch of Class: Learning to program well with objects and contracts - Bartrand Meyer
 Pragmatic software testing
+An Introduction to Object-Oriented Programming
+Object Solutions. Managing the Object Oriented Project
+The Art of Software Architecture: Design Methods and Techniques
+Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives
+Software Architecture in Practice
+Pattern-oriented Software Architecture: A System of Patterns
+Documenting Software Architectures
+Integrating Software Architecture-Centric Methods into Extreme Programming
